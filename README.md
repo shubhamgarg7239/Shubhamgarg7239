@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shubhamgargkt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Vdq8Fs66nGdYlKR3z28U_Em00-JnsPC/view?usp=sharing](https://drive.google.com/file/d/12Vdq8Fs66nGdYlKR3z28U_Em00-JnsPC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Vdq8Fs66nGdYlKR3z28U_Em00-JnsPC/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
