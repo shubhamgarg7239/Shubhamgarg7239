@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **shubhamgargkt@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12Vdq8Fs66nGdYlKR3z28U_Em00-JnsPC/view?usp=sharing)
+- 📄 Know about my [Resume](https://drive.google.com/file/d/1zCSSYWkJSd8fYHMWEhzdpqewGzUjep7u/view?usp=sharing)
+
+- 📄 Portfolio : [ShubhamGarg_portfolio](https://radiant-medovik-1f594f.netlify.app/)
 
 - ⚡ Fun fact **I am Funny**
 
