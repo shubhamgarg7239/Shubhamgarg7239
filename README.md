@@ -15,7 +15,6 @@
 
 - 📄 Know about my [Resume](https://drive.google.com/file/d/1zCSSYWkJSd8fYHMWEhzdpqewGzUjep7u/view?usp=sharing)
 
-- 📄 Portfolio : [ShubhamGarg_portfolio](https://radiant-medovik-1f594f.netlify.app/)
 
 - ⚡ Fun fact **I am Funny**
 
