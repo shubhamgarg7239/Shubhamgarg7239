@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/E9eo-KdXoAcenAi.png)]
+[![MasterHead](https://pbs.twimg.com/media/E9eo-KdXoAcenAi.png)] 
 <h1 align="center">Hi 👋, I'm Shubham Garg</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
