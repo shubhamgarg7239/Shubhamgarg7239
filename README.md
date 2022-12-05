@@ -7,14 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 💬 Ask me about **Java Basic**
+- 🌱 I’m currently learning **Java Mysql Spring SpringBoot Hibernate**
 
 - 📫 How to reach me **shubhamgargkt@gmail.com** 
 
-- 📄 Know about my [Resume](https://drive.google.com/file/d/11TQa9UaZULqN98g6zCoMRpg5hR2um1g4/view?usp=sharing)
+- 📄 Know about my [Resume](https://drive.google.com/file/d/11TQa9UaZULqN98g6zCoMRpg5hR2um1g4/view?usp=sharing) & [Portfolio](https://shubhamgarg-portfolio.netlify.app/)
 
+- 💬 Ask me about **Java Basic Sql Spring**
 
 - ⚡ Fun fact **I am Funny**
 
