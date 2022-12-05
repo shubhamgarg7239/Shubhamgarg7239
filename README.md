@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java Basic**
 
-- 📫 How to reach me **shubhamgargkt@gmail.com**
+- 📫 How to reach me **shubhamgargkt@gmail.com** 
 
 - 📄 Know about my [Resume](https://drive.google.com/file/d/11TQa9UaZULqN98g6zCoMRpg5hR2um1g4/view?usp=sharing)
 
