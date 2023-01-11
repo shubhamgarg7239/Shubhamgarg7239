@@ -1,6 +1,13 @@
 ![MasterHead](https://pbs.twimg.com/media/E9eo-KdXoAcenAi.png)
 <h1 align="center">Hi 👋, I'm Shubham Garg</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center"> A self-motivated, hard working and ambitious backend
+developer with proficiency in Java, SQL, spring and spring boot. Problem
+solving Mindset, and ability to perform well in
+collaboration. 1000+ hours of coding and hands-on
+experience in developing website. Looking forward to
+working as an accountable employee. </h3>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamgarg7239&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamgarg7239" /> </p>
@@ -13,7 +20,7 @@
 
 - 📄 Know about my [Resume](https://drive.google.com/file/d/11TQa9UaZULqN98g6zCoMRpg5hR2um1g4/view?usp=sharing) & [Portfolio](https://shubhamgarg-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java Basic Sql Spring**
+- 💬 Ask me about **Core Java | Sql | Spring | spring-boot**
 
 - ⚡ Fun fact **I am Funny** 
 
